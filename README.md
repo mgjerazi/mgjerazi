@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Mariol Gjerazi a DevOps Enthusiast :)
+- 👀 Interested in Cloud Computing & DevOps/SRE
+- 🌱 Currently learning new technologies on top of Kubernetes/GitOps Methodology
+- 📫 You can reach me via LinkedIn: https://www.linkedin.com/in/mariol-gjerazi/
+- 💞️ Collaborations : https://www.upwork.com/freelancers/~0109a553f9fff4d4a4
